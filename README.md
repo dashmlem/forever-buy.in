@@ -65,6 +65,7 @@ bash
 *   HTML
 *   CSS (Tailwind CSS)
 *   TS
+*   bash
 
 ## Вклад в проект
 
